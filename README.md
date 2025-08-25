@@ -1,5 +1,7 @@
 # CostsOptimizer: Elastic Infrastructure Scaling
 
+<img width="1137" height="684" alt="costsoptimizer" src="https://github.com/user-attachments/assets/e031e7c2-df8b-4415-95a4-a693f3f3b681" />
+
 ## Objective
 Reduce infrastructure costs by running applications elastically, leveraging Kubernetes and autoscaling to dynamically adjust the number of Pods based on demand.
 
